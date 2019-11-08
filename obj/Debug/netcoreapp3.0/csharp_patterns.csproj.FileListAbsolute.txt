@@ -1,0 +1,11 @@
+C:\INNA\home_projects\csharp_patterns\bin\Debug\netcoreapp3.0\csharp_patterns.exe
+C:\INNA\home_projects\csharp_patterns\bin\Debug\netcoreapp3.0\csharp_patterns.deps.json
+C:\INNA\home_projects\csharp_patterns\bin\Debug\netcoreapp3.0\csharp_patterns.runtimeconfig.json
+C:\INNA\home_projects\csharp_patterns\bin\Debug\netcoreapp3.0\csharp_patterns.runtimeconfig.dev.json
+C:\INNA\home_projects\csharp_patterns\bin\Debug\netcoreapp3.0\csharp_patterns.dll
+C:\INNA\home_projects\csharp_patterns\bin\Debug\netcoreapp3.0\csharp_patterns.pdb
+C:\INNA\home_projects\csharp_patterns\obj\Debug\netcoreapp3.0\csharp_patterns.csprojAssemblyReference.cache
+C:\INNA\home_projects\csharp_patterns\obj\Debug\netcoreapp3.0\csharp_patterns.AssemblyInfoInputs.cache
+C:\INNA\home_projects\csharp_patterns\obj\Debug\netcoreapp3.0\csharp_patterns.AssemblyInfo.cs
+C:\INNA\home_projects\csharp_patterns\obj\Debug\netcoreapp3.0\csharp_patterns.dll
+C:\INNA\home_projects\csharp_patterns\obj\Debug\netcoreapp3.0\csharp_patterns.pdb
